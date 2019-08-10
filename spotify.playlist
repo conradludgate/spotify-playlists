@@ -1,1 +1,5 @@
-spotify:track:12345,Out on a Limb (feat. Jonny Rose),Mr FijiWiji,Jonny Rose
+Track URI,Name,Artists,Album Type,Album URI,Album Image
+spotify:track:12345,Out on a Limb (feat. Jonny Rose),Mr FijiWiji|Jonny Rose,single,spotify:album:1234,https://http.cat/200
+spotify:track:12346,Color,Grant,album,spotify:album:1235,https://http.cat/201
+spotify:track:12347,Wishes,Grant,album,spotify:album:1235,https://http.cat/418
+
